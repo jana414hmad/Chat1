@@ -28,3 +28,6 @@ void keyPressed(){
     msg += key;
   }
 }
+
+
+// hej jana<3
